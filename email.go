@@ -9,3 +9,7 @@ func Email()  {
 func Test()  {
 	fmt.Println("test func")
 }
+
+func Index()  {
+	fmt.Println("index func")
+}
